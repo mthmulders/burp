@@ -19,9 +19,9 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>Burp - parent module - Checkstyle report</title>
+    <title>Burp - A Cassandra schema updater - Checkstyle report</title>
     <link>https://mthmulders.github.io/burp</link>
-    <description>Burp - parent module - Checkstyle report</description>
+    <description>Burp - A Cassandra schema updater - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2015</copyright>
     <item>
